@@ -1,0 +1,17 @@
+.odd{
+    background-color: lightpink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#c2{
+    color: blue;
+    font-size: 36px;
+}
+.odd.c3{
+    font-size: 24px;
+}
+#c4{
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
